@@ -30,14 +30,14 @@ sudo apt update
 sudo apt install -y python3 qpdf python3-tk
 
 # Clone the repository
-git clone https://github.com/yourusername/pdf-locker.git
+git clone https://github.com/Bryan1tyts/PDF-Locker-using-QPDF.git
 cd pdf-locker
 
 # Make executable
-chmod +x pdf-locker-debug.py
+chmod +x pdf-locker.py
 
 # Run
-python3 pdf-locker-debug.py
+python3 pdf-locker.py
 ```
 
 ### Windows
