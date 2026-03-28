@@ -53,14 +53,14 @@ python3 pdf-locker.py
 
 3. **Run the application**
    ```bash
-   python pdf-locker-debug.py
+   python pdf-locker.py
    ```
 
 ## Usage
 
 1. **Launch the application**
    ```bash
-   python3 pdf-locker-debug.py
+   python3 pdf-locker.py
    ```
 
 2. **Select a PDF file**
