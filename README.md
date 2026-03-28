@@ -1,6 +1,7 @@
 # PDF Locker 🔒
 
-A simple, cross-platform GUI application to lock PDF files and prevent editing, copying, and printing.
+A simple, cross-platform GUI application to lock PDF files and prevent editing, copying, and printing. I created this tool for personal use going away with Adobe and other paid software. 
+If you don't like it IDK lol
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.6+-blue.svg)
